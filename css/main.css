@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(218, 139, 139);
+}
+.mavzu{
+  text-align: center;
+  color: white;
+}
+.fon1{
+  background-color: bisque;
+  text-align: center;
+  font-family: sans-serif;
+}
+.sarlavha_1{
+  font-size: 28px;
+  text-transform: capitalize;
+}
+.text1_1{
+  font-weight: 700;
+}
+.text1_2{
+  text-transform: capitalize;
+  color: red;
+}
+.text1_3{
+  text-transform: capitalize;
+  color: red;
+}
+.fon2{
+  background-color: bisque;
+  text-align: center;
+  font-family: sans-serif;
+}
+.sarlavha_2{
+  font-size: 28px;
+  text-transform: capitalize;
+}
+.text2_1{
+  font-weight: 700;
+  text-size-adjust: inherit;
+}
+.text2_2{
+  text-transform: capitalize;
+  color: red;
+}
+.text2_3{
+  text-transform: capitalize;
+  color: red;
+}
+.text2_4{
+  text-transform: capitalize;
+  color: red;
+}
+.fon3{
+  background-color: bisque;
+  text-align: center;
+  font-family: sans-serif;
+}
+.sarlavha_3{
+  font-size: 28px;
+  text-transform: capitalize;
+}
+.text3_1{
+  font-weight: 700;
+}
+.text3_2{
+  text-transform: capitalize;
+  color: red;
+}
+.text3_3{
+  text-transform: capitalize;
+  color: red;
+}
+.text3_4{
+  text-transform: capitalize;
+  color: red;
+}
+.text3_5{
+  text-transform: capitalize;
+  color: red;
+}
